@@ -1,4 +1,10 @@
-﻿#include <iostream>
+/******************
+//Tapio Pekkarinen
+//Harjoitus 5
+//24.9.2014
+//versio 1.0
+*/
+#include <iostream>
 using namespace std;
 int erotus;
 void Laske(int eka, int toka);
@@ -12,8 +18,8 @@ void main()
 		cout << "BINGO";
 	else
 		cout << "BONGO";
-	
-	
+
+
 
 
 }
